@@ -186,11 +186,11 @@
             </a>
         </code>
     </h6>
+    <hr>
     <br />
     <p align="center">
         <img src="assets/img/code.gif">
     </p>
-    <br />
     <hr style="margin-bottom: 1rem;">
     <details align="center">
         <summary align="center">📈 My GitHub Stats</summary>
