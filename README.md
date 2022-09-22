@@ -100,7 +100,7 @@
     </h6>
     <h6 align="center" style="display: flex; gap: 8px; justify-content: center; margin-bottom: 8px;">
         <code>
-            <a style="display: flex; flex-direction: column; align-items: center;" href="https://laravel.com/"title="Laravel">
+            <a style="display: flex; flex-direction: column; align-items: center;" href="https://www.php.net"title="php">
                 <img width="32px" height="32px" src="assets/img/tech/php.svg">
             </a>
         </code>
