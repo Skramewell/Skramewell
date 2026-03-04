@@ -191,13 +191,4 @@
     <p align="center">
         <img src="assets/img/code.gif">
     </p>
-    <hr style="margin-bottom: 1rem;">
-    <details align="center">
-        <summary align="center">📈 My GitHub Stats</summary>
-        <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-top: 8px;">
-            <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Skramewell&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook,tex,css&theme=vue" width="55%">
-            <img src ="https://github-readme-streak-stats.herokuapp.com?user=Skramewell&hide_border=true&theme=vue" width="49%">
-            <img src ="https://github-readme-stats.vercel.app/api?username=Skramewell&show_icons=true&count_private=true&hide_border=true&theme=vue" width="49%">
-        </div>
-    </details>
 </section>
